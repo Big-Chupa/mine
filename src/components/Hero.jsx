@@ -61,7 +61,7 @@ const Hero = () => {
 
           <div className="stats-grid">
             <div>
-              <strong>2+</strong>
+              <strong>4+</strong>
               <span>Years</span>
             </div>
             <div>
